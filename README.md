@@ -1,5 +1,5 @@
 # AM-Uebung
-Übung zur Anforderungsmanagement-Trainings 
+*Übung zur Anforderungsmanagement-Training*
 
 Um die Theorie zum Themenkomplex Anforderungsmanagement mit praktischen Übungen zu untermauern, sollen mit den Funktionen im GITHUB die Anforderungen, User Stories, Use Cases etc. erfasst, dokumentiert und verwaltet im Team verwaltet werden. 
 
