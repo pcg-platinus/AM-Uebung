@@ -13,3 +13,5 @@ Als Übung sind dabei die Anforderungen für eine "SmartHome" in einem Privaten 
 - https://www.openhab.org/
 - https://www.loxone.com/dede/
 - https://www.apple.com/home-app/
+- https://codeberg.org/
+
